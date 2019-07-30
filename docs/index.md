@@ -2,7 +2,7 @@ A single resource, in the form of a simple website built with GitHub Pages, whic
 
 The end goal will be to produce a simple site that someone (including myself) could use to quickly bring themselves up to speed on the fundamental mathematical concepts necessary for machine learning. The target audience are those who have at least _some_ highschool math, but who should really have taken introductory courses on Linear Algebra and Calculus in college.
 
-The website can be accessed [here](https://hurshd0.github.io/mathematics-for-machine-learning/).
+The website can be accessed [here](https://hurshdesai.com/mathematics-for-machine-learning/).
 
 Full credit to the team behind the [Mathematics for Machine Learning Specialization](https://www.coursera.org/learn/linear-algebra-machine-learning) course on [Coursera](https://www.coursera.org) for creating such an awesome resource. I highly encourage anyone who needs to brush up on their mathematics for machine learning to check that course out.
 
